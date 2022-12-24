@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @sou-design
 - 👀 I’m interested in coding
+
+<div align="center">
+  <img src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif"/>
+</div>
 <div align="center"id="badges">
   <a href="https://www.linkedin.com/in/souad-merbouti/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/lrJB9RTNtpirITf7pd/giphy.gif"/>
 </div>
 
 <!---
