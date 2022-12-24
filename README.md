@@ -31,6 +31,10 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
 </div>
+<hr>
+:fire: My Stats :
+<hr>
+https://github-readme-streak-stats.herokuapp.com/?user=sou-design
 
 <!---
 sou-design/sou-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
