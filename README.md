@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @sou-design
-- 👀 I’m interested in coding
+ <div align="center">
+  <h1>👋 Hey There !</h1>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif"/>
