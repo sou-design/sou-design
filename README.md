@@ -28,6 +28,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" **alt="blender" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original-wordmark.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-original-wordmark.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
 </div>
 
 <!---
