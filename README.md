@@ -1,5 +1,5 @@
  <div align="center">
-  <h1> Hey There 👋 I am Merbouti Souad</h1>
+  <h1> Hey There 👋 I am ✨Merbouti Souad✨</h1>
 </div>
 <p>A computer vision engineer 💻 and a self-taught and aspiring graphic designer, and interested in other fields like game development and web development💪🧠</p>
 <div align="center">
