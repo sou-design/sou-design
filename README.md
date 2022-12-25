@@ -1,21 +1,21 @@
 
  <body>
- <div align="center">
-  <h1> Hey There 👋 I am ✨Merbouti Souad✨</h1>
-</div>
-<p>A computer vision engineer 💻 and a self-taught and aspiring graphic designer, and interested in other fields like game development and web development💪🧠</p>
 <div align="center">
+  <h1> Hey There 👋 I am ✨Merbouti Souad✨</h1>
+  A computer vision engineer 💻, a self-taught graphic designer, and interested in other fields like game development and web development💪
+ <br><br>
   <img src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif"/>
 </div>
+ 
 <div align="center"id="badges">
-  <a href="https://www.linkedin.com/in/souad-merbouti/" />
+    <a href="https://www.linkedin.com/in/souad-merbouti/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  <img src="https://komarev.com/ghpvc/?username=sou-design&style=flat-square&color=blue" alt=""/>
 </div>
-
+<hr>
 :hammer_and_wrench: Languages and Tools :
-
+<br><br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -33,11 +33,14 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
 </div>
-
+ <hr>
+:fire: My Stats :
+  <br><br>
 </body>
-## GitHub Stats Card
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sou-design&theme=dark&background=000000)](https://git.io/streak-stats)
- 
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sou-design&theme=cobalt)](https://git.io/streak-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sou-design&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 sou-design/sou-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
