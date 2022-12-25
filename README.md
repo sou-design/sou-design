@@ -34,7 +34,7 @@
 <hr>
 :fire: My Stats :
 <hr>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sou-design)
 
 <!---
 sou-design/sou-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
