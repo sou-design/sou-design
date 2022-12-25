@@ -34,7 +34,7 @@
 <hr>
 :fire: My Stats :
 <hr></hr>
-[![Carson3377's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carson3377&show_icons=true)](https://github.com/Carson3377/github-readme-stats)
+[![Carson3377's GitHub stats](https://github-readme-stats.vercel.app/api?username=sou-design=true)](https://github.com/sou-design/github-readme-stats)
 
 <!---
 sou-design/sou-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
