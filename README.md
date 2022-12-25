@@ -1,3 +1,6 @@
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sou-design&theme=dark&background=000000)](https://git.io/streak-stats)
+ 
+ 
  <div align="center">
   <h1> Hey There 👋 I am ✨Merbouti Souad✨</h1>
 </div>
@@ -35,7 +38,7 @@
 :fire: My Stats :
 <hr></hr>
 <div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sou-design&theme=dark&background=000000)](https://git.io/streak-stats)
+
 </div>
 <!---
 sou-design/sou-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
