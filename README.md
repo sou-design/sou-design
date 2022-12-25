@@ -33,7 +33,7 @@
 </div>
 <hr>
 :fire: My Stats :
-<hr>
+<hr></hr>
 ![GitHub Stats]((https://github-readme-stats.vercel.app/api?username=sou-design)
 
 <!---
