@@ -34,8 +34,9 @@
 <hr>
 :fire: My Stats :
 <hr></hr>
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=sou-design&theme=dark&show_icons=true)](https://git.io/streak-stats)
-
+<div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sou-design&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
 <!---
 sou-design/sou-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
