@@ -34,7 +34,7 @@
 <hr>
 :fire: My Stats :
 <hr></hr>
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=sou-design=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 sou-design/sou-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
