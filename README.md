@@ -33,10 +33,9 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
 </div>
-<hr>
-:fire: My Stats :
-<hr></hr>
+
 </body>
+## GitHub Stats Card
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sou-design&theme=dark&background=000000)](https://git.io/streak-stats)
  
 <!---
