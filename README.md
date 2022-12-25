@@ -1,7 +1,7 @@
  <div align="center">
   <h1> Hey There 👋 I am Merbouti Souad</h1>
 </div>
-
+<p>A computer vision engineer 💻 and a self-taught and aspiring graphic designer, and continue learning other fields💪🧠</p>
 <div align="center">
   <img src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif"/>
 </div>
