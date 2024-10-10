@@ -2,7 +2,7 @@
  <body>
 <div align="center">
   <h1> Hey There 👋 I am ✨Merbouti Souad✨</h1>
-  A computer vision engineer and currently a game dev student
+  A full stack developer and junior game dev
  <br><br>
   <img src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif"/>
 </div>
